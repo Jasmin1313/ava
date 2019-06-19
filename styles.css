@@ -1,0 +1,23 @@
+h1{
+  color: blue;
+  font-size: 100px;
+  text-align: center;
+}
+p{
+  color: blue;
+  font-size: 30px;
+  padding-left: 100px;
+}
+body{font-family: 'Lobster', cursive;
+background-color: turquoise;
+}
+.Jasmin{
+  position: absolute;
+  left: 80%;
+}
+img{
+  display: inline-block;
+  margin-right: 1px;
+  padding-left: 100px;
+  width: 200px;
+}
